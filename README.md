@@ -2,9 +2,9 @@
 
 Detail-oriented professional with experience in developing complex enterprise-level software, problem solver, and strategy developer with business first orientation.
 
-🤓 My goal is to develop the best software for humans and write the best optimised code for computers. 
-😍 Learning and spreading knowledge about Angular, the best framework ever. 
-😃 Interested in new technologies with passion. 
+ 🤓 My goal is to develop the best software for humans and write the best optimised code for computers. 
+ 😍 Learning and spreading knowledge about Angular, the best framework ever.  
+ 😃 Interested in new technologies with passion. 
 
 
 
