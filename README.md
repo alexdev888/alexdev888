@@ -6,6 +6,7 @@ Detail-oriented professional with experience in developing complex enterprise-le
 😍 Learning and spreading knowledge about Angular, the best framework ever.
 😃 Interested in new technologies with passion.
 
+
 ----
 
 - 🔭 I’m currently working on ...
