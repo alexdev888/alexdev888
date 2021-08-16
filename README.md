@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<!--
-**alexdev888/alexdev888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail-oriented professional with experience in developing complex enterprise-level software, problem solver, and strategy developer with business first orientation.
 
-Here are some ideas to get you started:
+🤓 My goal is to develop the best software for humans and write the best optimised code for computers.
+😍 Learning and spreading knowledge about Angular, the best framework ever.
+😃 Interested in new technologies with passion.
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
