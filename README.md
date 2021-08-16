@@ -1,4 +1,4 @@
-# Hi there 👋
+# About
 
 Detail-oriented professional with experience in developing complex enterprise-level software, problem solver, and strategy developer with business first orientation.
 
@@ -9,7 +9,7 @@ Detail-oriented professional with experience in developing complex enterprise-le
 
 # How I work
 
-# Get in touch
+# Get in touch 👋
 
 
 ----
